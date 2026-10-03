@@ -10279,9 +10279,9 @@ const Bu = { name: "Cradle", tagline: "where agents are born" },
   kr = {
     x: "https://x.com/cradle_rh",
     xHandle: "@cradle_rh",
-    cradleToken: "0xComingSoon",
+    cradleToken: "0x67fc2b828179b4d1ba155c313ecdca9411ca31dd",
     buyCradle:
-      "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+      "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0x67fc2b828179b4d1ba155c313ecdca9411ca31dd",
   },
   lo = { totalSupply: 1e9, virtualTokens: 1073e6 },
   Be = {
@@ -32267,7 +32267,7 @@ function zT() {
                 children: [
                   u.jsx("a", {
                     className: "btn sm",
-                    href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                    href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0x67fc2b828179b4d1ba155c313ecdca9411ca31dd",
                     target: "_blank",
                     rel: "noreferrer",
                     children: "Buy $CRADLE",
