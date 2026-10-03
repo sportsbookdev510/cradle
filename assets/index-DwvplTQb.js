@@ -10277,8 +10277,8 @@ function Q5(e, t) {
 }
 const Bu = { name: "Cradle", tagline: "where agents are born" },
   kr = {
-    x: "https://x.com/cradleonrh",
-    xHandle: "@cradleonrh",
+    x: "https://x.com/cradle_rh",
+    xHandle: "@cradle_rh",
     cradleToken: "0xComingSoon",
     buyCradle:
       "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
@@ -31577,10 +31577,10 @@ function MT() {
         children: [
           "Building an integration? Message ",
           u.jsx("a", {
-            href: "https://x.com/cradleonrh",
+            href: "https://x.com/cradle_rh",
             target: "_blank",
             rel: "noreferrer",
-            children: "@cradleonrh",
+            children: "@cradle_rh",
           }),
           " and we'll help test it. More about how Cradle works is in the ",
           u.jsx(Pt, { to: "/docs", children: "docs" }),
